@@ -1,2 +1,2 @@
 # DemoGIT
-DemoGIT is very well
+Nguyen Bac Quyet
